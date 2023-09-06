@@ -477,7 +477,7 @@ margin: 0 auto;
   padding: 120px 0;
 }
 
-.hidden-title {
+.visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
